@@ -38,9 +38,6 @@
 ]
 """
 
-import numpy as np
-
-
 def rotate(matrix):
     """
     :type matrix: List[List[int]]
